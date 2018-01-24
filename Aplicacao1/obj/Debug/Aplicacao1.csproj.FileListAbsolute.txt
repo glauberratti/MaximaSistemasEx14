@@ -1,0 +1,10 @@
+C:\Users\glaub\source\repos\Aplicacao1\Aplicacao1\obj\Debug\Aplicacao1.csprojResolveAssemblyReference.cache
+C:\Users\glaub\source\repos\Aplicacao1\Aplicacao1\obj\Debug\Aplicacao1.FrmCalcPrecoUnit.resources
+C:\Users\glaub\source\repos\Aplicacao1\Aplicacao1\obj\Debug\Aplicacao1.Properties.Resources.resources
+C:\Users\glaub\source\repos\Aplicacao1\Aplicacao1\obj\Debug\Aplicacao1.csproj.GenerateResource.Cache
+C:\Users\glaub\source\repos\Aplicacao1\Aplicacao1\obj\Debug\Aplicacao1.csproj.CoreCompileInputs.cache
+C:\Users\glaub\source\repos\Aplicacao1\Aplicacao1\bin\Debug\Aplicacao1.exe.config
+C:\Users\glaub\source\repos\Aplicacao1\Aplicacao1\bin\Debug\Aplicacao1.exe
+C:\Users\glaub\source\repos\Aplicacao1\Aplicacao1\bin\Debug\Aplicacao1.pdb
+C:\Users\glaub\source\repos\Aplicacao1\Aplicacao1\obj\Debug\Aplicacao1.exe
+C:\Users\glaub\source\repos\Aplicacao1\Aplicacao1\obj\Debug\Aplicacao1.pdb
